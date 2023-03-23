@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Stage02-Projeto01-MoveisCustomizados
+Stage02-Projeto01
  <br/> Móveis Customizados </h1>
 
 
