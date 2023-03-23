@@ -1,4 +1,5 @@
-<h1 align="center"> Projeto-01-Desafio-01
+<h1 align="center"> 
+Stage02-Projeto01-MoveisCustomizados
  <br/> Móveis Customizados </h1>
 
 
