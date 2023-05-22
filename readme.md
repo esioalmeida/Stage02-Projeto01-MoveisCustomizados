@@ -46,7 +46,7 @@ O projeto 01 é uma criação de uma Landing-Page básica para fotalecer alguns 
 <br/>
 
 
-- [Visite o projeto online](https://esio1998.github.io/Projeto-01-Desafio-01-MoveisCustomizados/)
+- [Visite o projeto online](https://esioalmeida.github.io/Stage02-Projeto01-MoveisCustomizados/)
 
 <br/>
 
